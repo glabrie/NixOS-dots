@@ -18,23 +18,17 @@
     dunst
     element-desktop
     fractal
-    floorp
     gh
-    google-chrome
     gnome-tweaks
-    grimblast
-    hyprpaper
     ncspot
     obsidian
     ranger
-    rofi-wayland
     slack
     tana
     telegram-desktop
     vscode-with-extensions
     waybar
-    w3m
-    wpsoffice
+    zed-editor
 
     # Ricing
     catppuccin
@@ -44,6 +38,7 @@
     gnomeExtensions.appindicator
     gnomeExtensions.blur-my-shell
     gnomeExtensions.dash-to-dock
+    gnomeExtensions.gsconnect
 
 
  ];
