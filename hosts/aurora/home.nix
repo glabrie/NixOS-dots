@@ -17,7 +17,6 @@
     dmenu
     dunst
     element-desktop
-    fractal
     gh
     gnome-tweaks
     ncspot

@@ -104,7 +104,6 @@
     fastfetch
     git
     gcc
-    kitty
     lazygit
     libgcc
     neovim
