@@ -28,10 +28,6 @@
     vscode-with-extensions
     waybar
     zed-editor
-
-    # Ricing
-    catppuccin
-    catppuccin-gtk
     
     # Gnome Extensions
     gnomeExtensions.appindicator
