@@ -19,6 +19,7 @@
     element-desktop
     gh
     gnome-tweaks
+    morgen
     ncspot
     obsidian
     ranger
@@ -58,7 +59,7 @@
     enable = true;
     shellAliases = {
       boot-garbage = "sudo /run/current-system/bin/switch-to-configuration boot";
-      collect-garbage = "nix-collect-garbage -d";
+      collect-garbage = "sudo nix-collect-garbage -d";
       dots ="cd ~/.dotfiles/";
       flup = "nix flake update";
       ga = "git add *";
