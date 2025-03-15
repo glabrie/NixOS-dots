@@ -19,7 +19,6 @@
     element-desktop
     gh
     gnome-tweaks
-    morgen
     ncspot
     obsidian
     ranger
