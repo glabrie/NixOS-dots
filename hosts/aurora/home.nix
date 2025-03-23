@@ -19,6 +19,7 @@
     element-desktop
     gh
     gnome-tweaks
+    libreoffice-fresh
     ncspot
     obsidian
     ranger
