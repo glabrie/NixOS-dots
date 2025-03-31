@@ -20,6 +20,7 @@
     gh
     gnome-tweaks
     libreoffice-fresh
+    minecraft
     ncspot
     obsidian
     ranger
