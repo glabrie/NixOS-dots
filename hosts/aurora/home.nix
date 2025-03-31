@@ -20,7 +20,7 @@
     gh
     gnome-tweaks
     libreoffice-fresh
-    minecraft
+    morgen
     ncspot
     obsidian
     ranger
